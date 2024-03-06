@@ -1,3 +1,9 @@
+/**
+ * IR-Based Alarm Clock
+ * Authors: Chris Lallo, Blake Rile, Bradley Gartner, Jerry Chen
+ * Date: 3/6/2024
+*/
+
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>
